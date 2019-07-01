@@ -1,0 +1,28 @@
+/* CSS file for aboutme.html */
+/* A look at hexadecimal colours */
+
+h1 {
+    color: #FF0E91;
+}
+
+h4 {
+    color: #549E9F;
+}
+
+li {
+    color: #FF963E;
+}
+
+/* A look at rgb and rgba colours */
+
+h2 {
+    color: rgba(255, 14, 145, 1);
+}
+
+h3 {
+    color: rgba(255, 14, 145, .6);
+}
+
+h5 {
+    color: rgba(255, 14, 145, .2);
+}

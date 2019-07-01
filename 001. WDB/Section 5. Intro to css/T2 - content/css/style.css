@@ -1,0 +1,19 @@
+/* CSS file for borders and backgrounds */
+
+body {
+    background: url(https://images.wallpaperscraft.com/image/stones_wet_surface_marine_118319_3840x2160.jpg)
+}
+
+h1 {
+    color: aliceblue;
+    padding-left: 2em; 
+}
+
+h2 {
+    color: aliceblue;
+    padding-left: 2.7em;
+}
+
+div {
+    background: rgba(0, 0, 0, .4);
+}
